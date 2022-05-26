@@ -1,0 +1,10 @@
+.container{min-height:100vh;width:100vw !important}.container .navbar{width:100vw;background:#000;display:flex;padding:.5em 0;justify-content:space-between;text-align:center;align-items:center;position:sticky;top:0;z-index:2}.container .navbar *{color:#fff}.container .navbar a{text-decoration:none;transition:all .1s}.container .navbar a:hover{color:#f63838}.container .navbar .brand{padding:0 .5em}.container .navbar .other{padding:0 2em}.container .navbar .other .dropdown .d-activator{padding:.2em .2em;transition:all .2s;border-radius:.2em}.container .navbar .other .dropdown .d-activator:hover{background:#fff;color:#f63838}.container .navbar .other .dropdown .d-activator:hover .d-content{display:block;z-index:10}.container .navbar .other .dropdown .d-activator:hover .d-content ul{list-style:none}.container .navbar .other .dropdown .d-activator:hover *{color:#f63838}.container .navbar .other .dropdown .d-content{display:none}.container .showcases{text-align:center;display:flex;flex-flow:column;padding:0 .5em}.container .showcases .showcase{margin-top:2em;text-align:initial;border:.1em solid black;border-radius:.5em;padding:.5em;word-break:break-all}.container .showcases .showcase p{display:inline-block}body{margin:0;padding:0}body *{margin:0;padding:0}
+img{width: 30%;
+height: 30%;}
+img:hover{opacity: 0.5;}
+div{background-color: #000;
+color: white;
+border: 1px solid#fff;}
+body{background-image: url(logo.img);}
+h1{text-shadow:1px 1px 4px  #fff;}
+h2{text-shadow:1px 1px 4px  #fff;}
